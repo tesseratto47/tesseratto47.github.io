@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'nintendoDS';
+    src: url("assets/font/Nintendo-DS-BIOS.ttf");
+}
+
+:root {
+    background-color: aquamarine;
+    font-family: 'nintendoDS';
+}
