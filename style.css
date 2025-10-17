@@ -8,18 +8,18 @@
     font-family: 'nintendoDS';
 }
 
-:link {
+a:link {
     color: darkred;
 }
 
-:hover {
+a:hover {
     color: firebrick;
 }
 
-:visited {
+a:visited {
     color: darkred;
 }
 
-:active {
+a:active {
     color: darkred;
 }
