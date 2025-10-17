@@ -12,14 +12,14 @@ a:link {
     color: darkred;
 }
 
-a:hover {
-    color: firebrick;
-}
-
 a:visited {
     color: darkred;
 }
 
 a:active {
     color: darkred;
+}
+
+a:hover {
+    color: firebrick;
 }
