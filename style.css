@@ -7,3 +7,19 @@
     background-color: linen;
     font-family: 'nintendoDS';
 }
+
+:link {
+    color: darkred;
+}
+
+:hover {
+    color: firebrick;
+}
+
+:visited {
+    color: darkred;
+}
+
+:active {
+    color: darkred;
+}
