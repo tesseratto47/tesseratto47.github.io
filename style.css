@@ -6,4 +6,5 @@
 :root {
     background-color: linen;
     font-family: 'nintendoDS';
+    white-space: pre-wrap;
 }
